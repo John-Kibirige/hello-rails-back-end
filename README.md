@@ -160,10 +160,6 @@ To run the project, execute the following command:
 - this will lauch the server on port 5173 as shown here http://localhost:5173/
 - At this point ensre that all servers are running at the same time for you to see the random greeting generated
 
-### Run tests
-
-### Deployment
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
@@ -181,6 +177,9 @@ To run the project, execute the following command:
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
+- scale this application both at the frontend and the backend
+- Add a documentation for the api 
+- Add a bit of styles to the frontend application
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -201,10 +200,6 @@ Feel free to check the [issues page](https://github.com/John-Kibirige/hello-rail
 If you like this project, you can kindly leave a start
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGEMENTS -->
-
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 ## 📝 License <a name="license"></a>
 
