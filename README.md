@@ -115,7 +115,7 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 - to have rails installed on your machine, [rails installation](https://guides.rubyonrails.org/v5.1/getting_started.html)
-- to have (yarn)[https://yarnpkg.com/] installed on your machine
+- to have [yarn](https://yarnpkg.com/) installed on your machine
 
 ### Setup
 
